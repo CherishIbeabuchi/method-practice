@@ -12,7 +12,7 @@ public class Hello {
 
     //other methods go below this comments
 
-    //make a method called sayHello that prints hello world
+    //make a method called sayHello that prints hello world !
     public static void sayHello() {
         System.out.println("Hello World!");
 
